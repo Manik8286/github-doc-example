@@ -1,1 +1,1 @@
-# github-doc-example
+# github-docs-example
